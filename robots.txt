@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://allegroagent715-hue.github.io/Mathew/sitemap.xml
